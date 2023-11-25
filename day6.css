@@ -1,0 +1,40 @@
+.container{
+   position: relative; 
+
+}
+
+img{
+    height:100px;
+    width: 100px;
+    margin-left: 40px;
+}
+
+/* #img1{
+    position: static;
+    top:40px;
+    left: 120px;
+} */
+
+/* #img3{
+    position: relative;
+    top: 140px;
+    left:60px;
+} */
+
+/* #img2{
+    position: absolute;
+    top: 50px;
+    left: 180px;
+} */
+
+/* #img2{
+    position: fixed;
+    top: 80px;
+    left: 120px;
+} */
+
+#img2{
+    position: sticky;
+    top: 120px;
+    left: 1800px;
+}
